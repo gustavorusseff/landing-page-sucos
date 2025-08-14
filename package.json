@@ -1,0 +1,23 @@
+{
+  "name": "landing-page-sucos",
+  "version": "1.0.0",
+  "description": "Projeto de landing page para uma empresa de sucos, feito com HTML, CSS e TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavorusseff/landing-page-sucos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavorusseff/landing-page-sucos/issues"
+  },
+  "homepage": "https://github.com/gustavorusseff/landing-page-sucos#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
